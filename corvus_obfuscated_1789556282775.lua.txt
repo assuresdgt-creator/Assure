@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/assuresdgt-creator/Assure/refs/heads/main/obfuscated_script-1789572563620.lua.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/assuresdgt-creator/Assure/refs/heads/main/corvus_obfuscated_1789577871765.lua.txt"))()
